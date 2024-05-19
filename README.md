@@ -25,7 +25,8 @@ Output: The program outputs the list of contacted candidates in the order they w
 3.Navigate to the directory where the 'coding_assignment.py' file is located.
 
 4.Run the program by executing the following command:
-                                                  python coding_assignment.py
+                                           
+                                           $  python coding_assignment.py
 
 
 5.When prompted, enter the name of the starting candidate (a single letter from A-Z) and press Enter.
